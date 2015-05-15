@@ -50,6 +50,8 @@
 * [An Introduction to Angular 2 (Jesus Rodriguez)](http://angular-tips.com/blog/2015/05/an-introduction-to-angular-2/)
 * [Video: Getting started with Angular 2 developer preview](https://www.youtube.com/watch?v=HmWm21cCAXM)
 * [Video: Creating d3 components with Angular2 and TypeScript](https://www.youtube.com/watch?v=x296y5mErWI&feature=youtu.be)
+* [Simple pool application with Angular 2](http://www.codetutorial.io/angular-2-0-preview-tutorial/)
+
 
 ### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
